@@ -190,9 +190,7 @@ All components are fully typed with TypeScript interfaces:
 ## Browser Compatibility
 
 - Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Opera (latest)
+
 
 **Note**: Audio features require user interaction in some browsers due to autoplay policies.
 
